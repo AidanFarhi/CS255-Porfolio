@@ -3,7 +3,7 @@ Portfolio for CS255
 
 - Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
-The DriverPass project was a brand new system for a company that provides practice test and on-the-road training
+The DriverPass project was a brand new system for a company that provides practice tests and on-the-road training
 to help people pass their driver's license test. The client wanted an online application that would enable them
 to offer online practice tests, courses, and on-the-road training sessions with instructors.
 
